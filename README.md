@@ -3,7 +3,7 @@
 This project aims to create a mobile application using Flutter that interfaces with the Trilium Notes API.
 
 > [!WARNING]
-> ⚠️ **Warning**: This project is currently a blueprint and is not yet fully functional. Contributions and feedback are welcome!
+> This project is currently a blueprint and is not yet fully functional. Contributions and feedback are welcome!
 
 ## Features
 
